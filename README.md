@@ -1,2 +1,8 @@
 # Autumn_Tree
- Building Fractal autumn Tree using L-system
+Building Fractals using L-system
+
+### Sierpinski Triangle
+![triangle](screen/triangle.jpg "triangle")
+
+### Fractal Tree
+![tree](screen/tree.jpg "tree")
